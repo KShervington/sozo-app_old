@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "sozo-app",
+    "slug": "sozo-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "sozo-app"
+}
